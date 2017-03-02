@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenCV_Switch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="str_camara">拍照</string>
+    <string name="str_picture">本地照片</string>
+    <string name="str_desc">image description</string>
+    <string name="title_activity_take_picture">TakePicture</string>
+    <string name="title_activity_pictureshow">Pictureshow</string>
+    <string name="title_activity_resultshow">Resultshow</string>
+
+</resources>

@@ -1,0 +1,83 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/show_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+
+
+
+        <Button
+            android:id="@+id/type1"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="类型一" />
+
+        <Button
+            android:id="@+id/type2"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="类型二" />
+    
+    <ImageView
+        android:id="@+id/img11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+    <ImageView
+        android:id="@+id/img12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+    <ImageView
+        android:id="@+id/img13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+    <ImageView
+        android:id="@+id/img14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+    <ImageView
+        android:id="@+id/img15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+    <ImageView
+        android:id="@+id/img16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+    <ImageView
+        android:id="@+id/img17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+    <ImageView
+        android:id="@+id/img18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+    <ImageView
+        android:id="@+id/img19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/str_picture" />
+
+</LinearLayout>
